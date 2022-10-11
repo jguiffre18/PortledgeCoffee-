@@ -1,0 +1,38 @@
+/* this styling is using the type selector for the body element to add a background image */
+body {
+    background-color: slategrey;
+}
+
+/* this will style the wrapper using the class selector */
+
+/* this styling will use the type selector for the header element */
+
+/* this stlying will resize the logo */
+.logoImage {
+    height: 118px;
+
+    /* this section of css will style the nav*/
+    nav {
+        background-color: color: green;
+        min-height: 400px;
+    }
+
+
+}
+
+/* this css will style the footer*/
+
+footer {
+    background-color: blanchedalmond;
+
+}
+
+/* this is for our navigation links--> */
+
+
+
+
+main h1 font size 85 px color: white font family text shawdow font family main p {
+    font size 18px color rgb a(249, 111, 93, 1);
+    text- shawdow 1px 1px 2px black
+}
